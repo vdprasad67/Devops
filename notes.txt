@@ -1,2 +1,7 @@
 git commands
 Git add
+Git commit
+Git remote add
+Git remote -v
+Git push
+Git pull
